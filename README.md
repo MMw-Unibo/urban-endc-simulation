@@ -94,11 +94,11 @@ Either method will produce a processed dataset as a result, including:
 
 All sub-processing products.
 
-Automated Markdown README.md generation.
 
 Detailed documentation of each part of the process (contained within the notebook).
 
 📂 Dataset Directory Structure
+
 Each dataset adheres to the same structure as Dataset-0:
 
 ```text
