@@ -101,8 +101,7 @@ Detailed documentation of each part of the process (contained within the noteboo
 📂 Dataset Directory Structure
 Each dataset adheres to the same structure as Dataset-0:
 
-Plaintext
-
+```text
 Dataset-0
 ├── README.md                   # Documentation on the dataset (name, exportation date, tests, ns-O-RAN scenario)
 ├── Raw                         # Raw, unchanged data, in the exact format xInfoDump provides
