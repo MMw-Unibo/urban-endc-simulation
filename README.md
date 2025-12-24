@@ -10,9 +10,6 @@ The simulated network spans a **4000×4000 meter urban landscape**. It leverages
 
 The primary goal of this scenario is to mirror real-world network design principles, balancing coverage and interference management in a dense deployment.
 
-![Scenario Topology](path/to/your/image.png)
-*Figure 1: Visual representation of the network topology.*
-
 ## 🚀 Key Features
 
 ### 1. Network Topology & Architecture
