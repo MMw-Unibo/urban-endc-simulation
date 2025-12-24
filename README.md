@@ -69,17 +69,20 @@ The tool used to process these datasets has been implemented in **Python** (`pro
 To execute the tool or the notebook, the requirements must be installed first:
 
 ```bash
-pip3 install -r requirements.txt```
+pip3 install -r requirements.txt
+```
 ### 🚀 Usage
 You can run the processing tool in two ways:
 
-1. Terminal-based UI
+#### Terminal-based UI
 Run the Python script directly to use the terminal interface:
 
-Bash
-
+```bash
 python3 process_dataset.py
-2. Jupyter Notebook
+```
+
+#### Jupyter Notebook
+
 Open DataProcessing.ipynb in your Jupyter environment.
 
 Set the configuration variables at the start of the notebook.
